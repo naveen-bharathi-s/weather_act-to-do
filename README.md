@@ -1,12 +1,74 @@
-# React + Vite
+# 🌦️ Weather & To-Do App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple yet powerful web app built with React + Vite that allows users to:
 
-Currently, two official plugins are available:
+🌍 Check real-time weather in their city
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✅ Add and manage daily activities
 
-## Expanding the ESLint configuration
+🔐 Use Sign In / Sign Up authentication flow
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🎨 Enjoy a modern, responsive design with Tailwind CSS
+
+
+
+---
+
+🚀 Features
+
+Weather Checker → Enter your city and get the latest weather instantly
+
+To-Do Manager → Add, view, and manage your activities
+
+Authentication → Login and Signup pages for user access
+
+Responsive UI → Works smoothly across devices
+
+
+
+---
+
+🛠️ Tech Stack
+
+Frontend: React + Vite ⚡
+
+Styling: Tailwind CSS 🎨
+
+Language: JavaScript
+
+
+
+---
+
+🔗 Live Demo
+
+👉 
+
+
+---
+
+💻 Setup & Installation
+
+Clone the repository:
+
+git clone 
+
+cd Weather-Todo-App
+
+Install dependencies:
+
+npm install
+
+Run locally:
+
+npm run dev
+
+Build for production:
+
+npm run build
+
+
+---
+
+
+Thanks for visiting my page...
